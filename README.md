@@ -38,6 +38,6 @@ Contributions are not actively sought for this project as it serves as a persona
 
 ## License
 
-This project is licensed under the GPL v2 License [LICENSE](LICENSE).
+This project is licensed under the GPL v2 [LICENSE](LICENSE).
 
 _Enjoy the challenge of solving the 15 Puzzle!_
