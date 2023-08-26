@@ -30,7 +30,7 @@ For the original 15 Puzzle CLI project, you can visit [here](https://github.com/
 1. Make sure you have SFML installed. You can download it from [here](https://www.sfml-dev.org/).
 2. Clone this repository.
 3. Include SFML library to the project(Include and Lib, tutorial [here](https://www.sfml-dev.org/tutorials/2.6/start-vc.php))
-4. Compile the source files using Visual Studio or your preferred C++ compiler.
+4. Compile the source files using Visual Studio or your preferred IDE.
 
 ## Contributing
 
