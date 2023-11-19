@@ -9,8 +9,8 @@ This project is an extended version of my previous 15 Puzzle CLI project, now fe
 - [New features](#new-features)
 - [Original project](#original-cli-project)
 - [How to play](#how-to-play)
-- [Dependencies](#dependencies)
 - [Running the game](#running-the-game)
+- [Dependencies](#dependencies)
 - [Compiling](#compiling-from-source)
 - [License](#license)
 
@@ -29,17 +29,17 @@ For the original 15 Puzzle CLI project, you can visit [here](https://github.com/
 - Use mouse clicks or keyboard arrows/WASD to move tiles and arrange them in order.
 - The game is won when tiles are in ascending order, from top-left to bottom-right, with an empty space at the bottom-right corner.
 
-## Dependencies
-
-- SFML (Simple and Fast Multimedia Library): Required for graphical rendering and input handling.
-
-NOTE: this is needed for those who want to compile, if you want to run the game see [Running the game](#running-the-game)
-
 ## Running the game
 
 1. Download the game from [releases](https://github.com/Edveika/15-Puzzle-gui/releases/tag/1.0)
 2. Extract 15-Puzzle-gui.zip file
 3. Run the exe from the extracted folder
+
+## Dependencies
+
+- SFML (Simple and Fast Multimedia Library): Required for graphical rendering and input handling.
+
+NOTE: this is needed for those who want to compile, if you want to run the game see [Running the game](#running-the-game)
 
 ## Compiling from source
 
